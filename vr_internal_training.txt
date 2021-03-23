@@ -1,0 +1,15 @@
+#Document Commands
+!PRODUCT,Weekly Training
+!VERSION,1.00.00
+!DOC_TYPE,
+!OUT_DIR,weekly_training/
+!INCLUDED_PAGES,
+!EXCLUDED_PAGES,
+!VALID_TEXT,
+!TEMPLATE_COVER,required/htm/template_index_print.htm,index_print.htm
+
+#Documentation Generation
+!INCLUDE,required/intro_.txt,1
+*,Weekly Training Topics,,weekly_training_topics.htm,,,		
+**,Library/ Parts/ Acc Compatibility,,lib_parts_acc.htm,,,,The Library, Parts Navigator and Accessory Compatibility - 2021-03-12
+**,Spice Up Your Sonar,,spice_up_up_sonar.htm,,,,Spice Up Your Sonar Imagery, 2021-03-19
